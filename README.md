@@ -1,6 +1,6 @@
 <div>
 
-<img src=”assets/astronauta.png” alt=”Astronaut”/>
+<img src=”https://github.com/VictorLimaRt/VictorLimaRt/blob/main/assets/astronauta.png" alt=”Astronaut Banner”/>
 
 <h1 align="left">Hi 👋, I'm Victor Lima</h1>
 

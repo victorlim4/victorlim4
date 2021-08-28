@@ -14,7 +14,7 @@
 </p>
 <br/>
 
-#A little more about me...
+<h3 align="left">A little more about me...</h3>
 
 ```javascript
 const victor = {

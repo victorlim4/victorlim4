@@ -1,5 +1,5 @@
 <div>
-<img src="https://raw.githubusercontent.com/victorlimart/victorlimart/main/assets/astronauta.png" alt="Astronaut Banner" width="100%"/>
+
     
 <h1 align="left">Hi 👋, I'm Victor Lima</h1>
 

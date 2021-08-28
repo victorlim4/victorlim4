@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Lima</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Callisto Agency](www.callistoagencia.com)
-
 - 💬 Ask me about **react, node and react native**
 
 <h3 align="left">Connect with me:</h3>

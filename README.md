@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/victorlima278903" target="blank">
-<img align="center" src="https://img.shields.io/badge/-Facebook-%0000FF?style=for-the-badge&logo=facebook&logoColor=white" alt="My FacebookProfile" />
+<img align="center" src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" alt="My FacebookProfile" />
 </a>
 <a href="https://instagram.com/_victor_lima" target="blank">
 <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Profile" />

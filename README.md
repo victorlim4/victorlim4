@@ -1,5 +1,5 @@
 <div>
-![alt text](https://github.com/VictorLimaRt/VictorLimaRt/blob/main/assets/astronauta.png “Astronaut Banner”)    
+![Banner](https://github.com/VictorLimaRt/VictorLimaRt/blob/main/assets/astronauta.png)
 <h1 align="left">Hi 👋, I'm Victor Lima</h1>
 
 <h3 align="left">Connect with me:</h3>

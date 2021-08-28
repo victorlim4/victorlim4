@@ -1,4 +1,5 @@
-<img src=”https://github.com/VictorLimaRt/VictorLimaRt/blob/main/assets/astronauta.png" alt=”Astronaut hero banner”/>
+<div>
+![alt text](https://github.com/VictorLimaRt/VictorLimaRt/blob/main/assets/astronauta.png “Astronaut Banner”)    
 <h1 align="left">Hi 👋, I'm Victor Lima</h1>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,6 +30,7 @@ const victor = {
     purpose: "create technologies that help solve humanity´s problems"
 }
 ```
+</div>                                                                     
 <div>
   <a href="https://github.com/victorlimart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorlimart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

@@ -1,5 +1,5 @@
 <div>
-[![Header](https://raw.githubusercontent.com/victorlimart/victorlimart/main/assets/astronauta.png "Header")](https://callistoagencia.com)
+<img src="https://raw.githubusercontent.com/victorlimart/victorlimart/main/assets/astronauta.png" alt="Astronaut Banner"/>
     
 <h1 align="left">Hi 👋, I'm Victor Lima</h1>
 

@@ -12,7 +12,6 @@
 <img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Profile" />
 </a>
 </p>
-<br/>
 
 <h3 align="left">A little more about me...</h3>
 

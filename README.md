@@ -1,6 +1,6 @@
 <div>
 
-<img src=”assets/astronauta.png” alt=”Astronaut”/>
+<img src=”https://github.com/victorlimart/victorlimart/blob/main/assets/astronauta.png” alt=”Astronaut”/>
 
 <h1 align="left">Hi 👋, I'm Victor Lima</h1>
 
@@ -8,10 +8,10 @@
 <p align="left">
 
 <a href="https://fb.com/victorlima278903" target="blank">
-<img align="center" src="https://img.icons8.com/clouds/100/000000/facebook.png" alt="My FacebookProfile" height="30" width="40" />
+<img align="left" src="https://img.shields.io/badge/-Facebook-%3b5998?style=for-the-badge&logo=facebook&logoColor=white" alt="My FacebookProfile" />
 </a>
 <a href="https://instagram.com/_victor_lima" target="blank">
-<img align="center" src="https://img.icons8.com/clouds/100/000000/instagram-new--v1.png" alt="MyInstagram Profile" height="30" width="40" />
+<img align="left" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Profile" />
 </a>
 </p>
 

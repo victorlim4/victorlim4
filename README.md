@@ -10,9 +10,6 @@
 <a href="https://instagram.com/_victor_lima" target="blank">
 <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram Profile" />
 </a>
-<a href="https://www.linkedin.com/in/victor-lima-68b67420a/" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Instagram Profile" />
-</a>
 </p>
 
 <h3 align="left">A little more about me...</h3>

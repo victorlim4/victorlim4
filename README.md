@@ -19,7 +19,7 @@
 
 ```javascript
 const victor = {
-    code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, CSharp],
+    code: [Javascript, Typescript, Ruby, Python, Java, CSharp],
     tools: [React, Redux, Node, Sass, React Native, Jest, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
     addictedToCoffee: true,

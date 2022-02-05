@@ -25,9 +25,9 @@ const victor = {
     addictedToCoffee: true,
     favoriteDatabase: "mongoDB",
     workingAt: {
-                    CEO: "Agencia Callisto",
-                    developer: "Agencia Callisto",
-                    designer: "Agencia Callisto"
+                    CEO: "Callisto Agência",
+                    developer: "Callisto Agência",
+                    designer: "Callisto Agência"
                 },
     purpose: "create technologies that help solve humanity´s problems"
 }

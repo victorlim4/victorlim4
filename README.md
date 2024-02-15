@@ -17,17 +17,12 @@
 
 ```javascript
 const victor = {
-    code: [Javascript, Typescript, Ruby, Python, Java, CSharp],
+    code: [Javascript, Typescript, Python],
     tools: [React, Redux, Node, Sass, React Native, Jest, Docker],
     architecture: ["microservices", "event-driven", "design system pattern"],
     addictedToCoffee: true,
-    favoriteDatabase: "mongoDB",
-    workingAt: {
-                    CEO: "Callisto Agência",
-                    developer: "Callisto Agência",
-                    designer: "Callisto Agência"
-                },
+    favoriteDatabase: "PostgreSQL",
     purpose: "create technologies that help solve humanity´s problems"
 }
 ```
-</div>                                                                     
+</div>                                      

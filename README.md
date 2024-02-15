@@ -10,7 +10,6 @@
 <a href="https://www.linkedin.com/in/victorlim4/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Instagram Profile" />
 </a>
-<a href="https://www.buymeacoffee.com/victorlim4" target="_blank"><img align="center" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-BD5FFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>
 </p>
 
 <h3 align="left">A little more about me...</h3>

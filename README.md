@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/victorlim4/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My Instagram Profile" />
 </a>
+<a href="https://medium.com/@victorlim4" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="My medium profile" />
+</a>
 </p>
 
 <h3 align="left">A little more about me...</h3>
